@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
+
+I am  __Wong Khai Shian Nicholas__, and I'm currently pursuing Bachelor of Computer Science, Data Engineering at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 
-**nicholas0377/nicholas0377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🙌🏻 Connect with Me
+<p align="left">
+    <a href="https://github.com/nicholas0377"><img src="https://img.shields.io/badge/nicholas0377-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    <a href="https://www.linkedin.com/in/culturedzone/" target="_blank"><img src="https://img.shields.io/badge/culturedzone-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=">Linkedin Badge"/>
+  <a href="https://www.instagram.com/nicholaswkshian/">
+    <img src="https://img.shields.io/badge/nicholaswkshian-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
